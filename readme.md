@@ -1,3 +1,4 @@
+![Banner](https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA)
 <h1 align="center">Hi 👋, I'm Sriram</h1>
 <h3 align="center">Aspiring Software Engineer | MERN Stack Developer | AI/ML & Cybersecurity Learner</h3>
 
