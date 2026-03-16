@@ -1,12 +1,15 @@
-
 <h1 align="center">Hi 👋, I'm Sriram</h1>
 <h3 align="center">Aspiring Software Engineer | MERN Stack Developer | AI/ML & Cybersecurity Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssriramcse23-ui&label=Profile%20views&color=0e75b6&style=flat" alt="ssriramcse23-ui" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssriramcse23-ui" alt="ssriramcse23-ui" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **CYBER SECURITY,AI & ML**
 
 - 👨‍💻 All of my projects are available at [https://srirams2006.netlify.app/](https://srirams2006.netlify.app/)
+
+- 💬 Ask me about **MERN,FLUTTER**
 
 - 📫 How to reach me **ssriramcse23@gmail.com**
 
@@ -28,5 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssriramcse23-ui&show_icons=true&locale=en" alt="ssriramcse23-ui" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssriramcse23-ui&" alt="ssriramcse23-ui" /></p>
-
 
