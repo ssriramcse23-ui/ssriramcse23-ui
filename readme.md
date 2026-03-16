@@ -37,3 +37,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssriramcse23-ui&" alt="ssriramcse23-ui" /></p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/sriramcse?theme=light&font=Spline%20Sans&ext=contest)
+
