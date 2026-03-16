@@ -1,10 +1,4 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo24080
-Fork on GitHub8286
+
 <h1 align="center">Hi 👋, I'm Sriram</h1>
 <h3 align="center">Aspiring Software Engineer | MERN Stack Developer | AI/ML & Cybersecurity Learner</h3>
 
