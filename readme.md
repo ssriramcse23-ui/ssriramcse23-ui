@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssriramcse23-ui&label=Profile%20views&color=0e75b6&style=flat" alt="ssriramcse23-ui" /> </p>
 
-
+- 🔭 I’m currently Studing Computer Science
+  
 - 🌱 I’m currently learning **CYBER SECURITY,AI & ML**
 
 - 👨‍💻 All of my projects are available at [https://srirams2006.netlify.app/](https://srirams2006.netlify.app/)
