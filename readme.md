@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning **CYBER SECURITY,AI & ML**
 
-- 👨‍💻 All of my projects are available at [https://srirams2006.netlify.app/](https://srirams2006.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://srirams2006.netlify.app/)
 
 - 💬 Ask me about **MERN,FLUTTER**
 
