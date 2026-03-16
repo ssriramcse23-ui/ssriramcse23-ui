@@ -1,4 +1,4 @@
-![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVlOGVyOXlybTFnNXlhNXI3Z2liamxiM2VkMzB6aGlvN2VzOWw4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Sriram</h1>
 <h3 align="center">Aspiring Software Engineer | MERN Stack Developer | AI/ML & Cybersecurity Learner</h3>
 
